@@ -1,5 +1,5 @@
 # kelompoksatoe:sparkles:
-## Survei Evaluasi Layanan Sekolah Tinggi Sandi Negara /play trololo
+## Survei Evaluasi Layanan Sekolah Tinggi Sandi Negara
 
 
 :small_orange_diamond:  Survei Evaluasi Layanan Sekolah Tinggi Sandi Negara adalah suatu survei yang bertujuan untuk mengukur tingkat kepuasaan mahasiswa Sekolah Tinggi Sandi Negara terhadap layanan dari penyelenggaraan pendidikan dan pengasuhan. Hasil dari survei ini merupakan evaluasi terhadap layanan yang kemudian akan dijadikan bahan pertimbangan untuk perubahan atau perbaikan penyelenggara pendidikan dan pengasuhan.
