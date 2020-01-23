@@ -20,14 +20,20 @@
 
 #### requirements:
 Untuk menjalankan layanan survei, pengguna membutuhkan:
+
 :arrow_forward: [PHP](https://www.php.net/downloads.php)
+
 :arrow_forward: [Composer](https://getcomposer.org/download/)
+
 :arrow_forward: [XAMPP](https://www.apachefriends.org/download.html)
 
 #### steps:
-[] membuka layanan survei pada: https://survey.stsn-nci.ac.id/index.php/260198?lang=id
-[] jalankan index.php pada _device_
-[] daftar partisipan yang belum mengisi survei akan ditampilkan
+
+[1] membuka layanan survei pada: https://survey.stsn-nci.ac.id/index.php/260198?lang=id
+
+[2] jalankan index.php pada _device_
+
+[3] daftar partisipan yang belum mengisi survei akan ditampilkan
 
 ------------------------------------------------------------------------------------------------------------------------------
 
