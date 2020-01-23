@@ -2,6 +2,8 @@
 ## Survei Evaluasi Layanan Sekolah Tinggi Sandi Negara
 
 
+###### Fahmi Dwi Refizal (1615101218), Lytio Enggar Erlangga (1615101233), Tio Hana Lolita Boru Lumban Tobing (1615101260), Tubagus Eiffel Rivaldo (1615101261)
+
 :small_orange_diamond:  Survei Evaluasi Layanan Sekolah Tinggi Sandi Negara adalah suatu survei yang bertujuan untuk mengukur tingkat kepuasaan mahasiswa Sekolah Tinggi Sandi Negara terhadap layanan dari penyelenggaraan pendidikan dan pengasuhan. Hasil dari survei ini merupakan evaluasi terhadap layanan yang kemudian akan dijadikan bahan pertimbangan untuk perubahan atau perbaikan penyelenggara pendidikan dan pengasuhan.
 
 :small_orange_diamond:Tiap-tiap bagian penyelenggara pendidikan dan pengasuhan masing-masing mendapatkan 1 bagian survei yang terdiri dari 13 pernyataan. Survei menggunakan 5 parameter, yaitu Sangat Tidak Setuju, Tidak Setuju, Cukup, Setuju, dan Sangat Setuju. 
@@ -14,4 +16,20 @@
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-#### :wavy_dash: PETUNJUK INSTALASI
+### :wavy_dash: PETUNJUK INSTALASI
+
+#### requirements:
+Untuk menjalankan layanan survei, pengguna membutuhkan:
+:arrow_forward: [PHP](https://www.php.net/downloads.php)
+:arrow_forward: [Composer](https://getcomposer.org/download/)
+:arrow_forward: [XAMPP](https://www.apachefriends.org/download.html)
+
+#### steps:
+[] membuka layanan survei pada: https://survey.stsn-nci.ac.id/index.php/260198?lang=id
+[] jalankan index.php pada _device_
+[] daftar partisipan yang belum mengisi survei akan ditampilkan
+
+------------------------------------------------------------------------------------------------------------------------------
+
+### DISCLAIMER
+Fitur menampilkan partisipan yang belum mengisi survei termasuk dalam Sistem Informasi kategori DSS (Decision-Support Systems). DSS berfokus pada suatu masalah. Fitur ini dapat membantu administrator atau pihak yang membutuhkan hasil survei dalam menentukan langkah-langkah yang harus dilakukan untuk memaksimalkan pengisian survei dan penerimaan hasil survei yang dibutuhkan.
