@@ -45,35 +45,6 @@ if(is_array($response)){
 } else {
     print_r(base64_decode($response), null );
 }
-
-function build_table($aConditions){
-    // start table
-    $html = '<table>';
-    // header row
-    $html .= '<tr>';
-    foreach($aConditions[0] as $key=>$value){
-            $html .= '<th>' . htmlspecialchars($key) . '</th>';
-        }
-    $html .= '</tr>';
-
-    // data rows
-    foreach( $aConditions as $key=>$value){
-        $html .= '<tr>';
-        foreach($value as $key2=>$value2){
-            $html .= '<td>' . htmlspecialchars($value2) . '</td>';
-        }
-        $html .= '</tr>';
-    }
-
-    // finish table and return it
-
-    $html .= '</table>';
-    return $html;
-}
-
-
-
-echo build_table($aConditions);
 //~ release the session key
 $lsJSONRPCClient->release_session_key( $sessionKey );
  ?>
